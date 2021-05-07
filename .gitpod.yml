@@ -1,3 +1,0 @@
-tasks:
-  - init: echo "I hope you realized that GitPod is the last needed thing in Termux packages development and you have no point in being here, right?"
-image: gitpod/workspace-full
